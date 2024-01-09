@@ -7,4 +7,4 @@ resource "aws_instance" "ec2_instance" {
   # Add other necessary configurations
 }
 
-# Add any additional outputs as needed
+
